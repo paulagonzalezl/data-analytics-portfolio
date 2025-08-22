@@ -1,0 +1,13 @@
+# Análisis de ventas
+
+**Objetivo:** Identificar patrones de compra y segmentar clientes.  
+**Herramientas:** SQL, Power BI, Excel
+
+📊 Resultados:
+- El 25% de los clientes recurrentes generó el 70% de las ventas.  
+- Segmentación RFM para definir estrategias de marketing.  
+
+📂 Archivos:  
+- https://docs.google.com/spreadsheets/d/1pTbva3myAANWpd_s9IzEu3fRSweYDIgz/edit?usp=drive_link&ouid=102515334633480256089&rtpof=true&sd=true → datos
+- `dataset.csv` → dashboard en Power BI  
+- 
