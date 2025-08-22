@@ -5,7 +5,7 @@ Aquí encontrarás ejemplos de análisis y dashboards que realicé usando **SQL,
 
 ## Proyectos
 
-- 🛒 [Análisis de ventas en e-commerce](./Análisis-de-ventas)  
+- 🛒 [Análisis de ventas](./Análisis-de-ventas)  
 - 🍇 [Dashboard de control de calidad en bodega](./calidad-bodega)  
 - 🍷 [Impacto del rendimiento del viñedo en compuestos aromáticos](./rendimiento-vinedo)
 
