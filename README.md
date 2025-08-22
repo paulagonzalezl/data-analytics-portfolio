@@ -1,4 +1,4 @@
-# 📊 Portfolio de Data Analytics — [María Paula González]
+# 📊 Portfolio de Data Analytics — María Paula González
 
 Bienvenido/a a mi portfolio de proyectos de Data Analytics.  
 Aquí encontrarás ejemplos de análisis y dashboards que realicé usando **SQL, Power BI, Phyton y Excel**, aplicados a e-commerce y vitivinicultura.  
@@ -14,5 +14,5 @@ Aquí encontrarás ejemplos de análisis y dashboards que realicé usando **SQL,
 - Vitivinicultura: experiencia en laboratorio y análisis de vinos
 
 - ## Contacto
-- LinkedIn: [https://www.linkedin.com/in/mar%C3%ADa-paula-gonzalez-8b5744163/]  
-- Email: [mpaugonzalezl@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/mar%C3%ADa-paula-gonzalez-8b5744163/ 
+- Email: mpaugonzalezl@gmail.com
